@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "296DA4F4-ED3E-4952-8F57-703605E48930"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D0ACAD4-BCD9-4C27-BB8C-242B01939ADE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ConnectDB/Authentication/SettingsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "emailSection"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8D0ACAD4-BCD9-4C27-BB8C-242B01939ADE - 71fefc718a48ea42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #3 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in ConnectDB.SettingsView.body.getter : some"
+                  moduleName = "ConnectDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elijahelliott/Desktop/ConnectDB/ConnectDB/Authentication/SettingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "8D0ACAD4-BCD9-4C27-BB8C-242B01939ADE - 9543ea567101c5d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #3 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in ConnectDB.SettingsView.body.getter : some"
+                  moduleName = "ConnectDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elijahelliott/Desktop/ConnectDB/ConnectDB/Authentication/SettingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "8D0ACAD4-BCD9-4C27-BB8C-242B01939ADE - 2f99a72642a71644"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #3 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in ConnectDB.SettingsView.body.getter : some"
+                  moduleName = "ConnectDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elijahelliott/Desktop/ConnectDB/ConnectDB/Authentication/SettingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "8D0ACAD4-BCD9-4C27-BB8C-242B01939ADE - 7b76f243e6937445"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #3 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in ConnectDB.SettingsView.body.getter : some"
+                  moduleName = "ConnectDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elijahelliott/Desktop/ConnectDB/ConnectDB/Authentication/SettingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "8D0ACAD4-BCD9-4C27-BB8C-242B01939ADE - afaab7ebe73c04cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ConnectDB.SettingsView.emailSection.getter : some"
+                  moduleName = "ConnectDB"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elijahelliott/Desktop/ConnectDB/ConnectDB/Authentication/SettingsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
